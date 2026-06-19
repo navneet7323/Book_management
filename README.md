@@ -5,7 +5,7 @@ The project allows users to add, update, search, and delete books easily through
 
 The application was created as a React assignment project and uses a mock API for storing book data.
 
----
+-----
 
 ## Features
 
